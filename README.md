@@ -11,7 +11,6 @@
 <br/>
 
 <img src="https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ayal408/nexusdb?style=for-the-badge&color=6C63FF&label=nexusdb%20Stars" alt="stars"/>
 
 </div>
 
