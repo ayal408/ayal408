@@ -4,12 +4,14 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0AB2F7&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineer;Building+resilient%2C+multi-database+Python+systems;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Qdrant+%7C+Redis)](https://github.com/ayal408)
+### Backend & Systems Engineer
+**Building resilient, multi-database Python systems**
+<br/>PostgreSQL &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; Qdrant &nbsp;|&nbsp; Redis
 
 <br/>
 
 <img src="https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ayal408?style=for-the-badge&color=6C63FF&label=Stars" alt="stars"/>
+<img src="https://img.shields.io/github/stars/ayal408/nexusdb?style=for-the-badge&color=6C63FF&label=nexusdb%20Stars" alt="stars"/>
 
 </div>
 
