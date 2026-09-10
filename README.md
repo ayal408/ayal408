@@ -10,8 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers" alt="followers"/>
-&nbsp;
+![followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
 
 </div>
