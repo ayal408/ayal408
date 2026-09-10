@@ -84,6 +84,20 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
 </div>
 
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/ayal408?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire"/></a>
+
+**Pair Extraordinaire** — earned for co-authored commits (some of them with an AI pairing partner)
+
+<br/>
+
+![trophies](https://github-profile-trophy.vercel.app/?username=ayal408&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
