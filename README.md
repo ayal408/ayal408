@@ -1,4 +1,3 @@
-@@ -1,115 +1,118 @@
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/293018936?v=4" width="140" style="border-radius:50%" alt="ayal408"/>
@@ -13,7 +12,7 @@
 
 ![followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
-![followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers) [![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
+
 
 </div>
 
