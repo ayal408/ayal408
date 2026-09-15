@@ -22,7 +22,7 @@ I build backend systems that don't fall over when the database does something
 weird at 3am — enterprise-grade data layers with a real story for retries,
 caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
-- 🧱 **[nexusdb](https://github.com/ayal408/nexusdb)** — a unified repository/Unit-of-Work
+- 🧱 **[krossdb](https://github.com/ayal408/krossdb)** — a unified repository/Unit-of-Work
   interface over PostgreSQL, MySQL, SQLite, MongoDB, and Qdrant, so application
   code depends on one clean abstraction instead of five different drivers.
   Built-in circuit breakers, retry with backoff, cache-aside layers, and
@@ -79,7 +79,7 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
 | Repo | Description | Stack |
 |---|---|---|
-| [**nexusdb**](https://github.com/ayal408/nexusdb) | Unified repository/UoW interface over relational, document & vector DBs, with circuit breakers, retry, caching & multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**krossdb**](https://github.com/ayal408/krossdb) | Unified repository/UoW interface over relational, document & vector DBs, with circuit breakers, retry, caching & multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**domix**](https://github.com/ayal408/domix) | Client/server app with its own auth service, fronted by Nginx, orchestrated with Docker Compose | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
