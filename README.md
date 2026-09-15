@@ -58,7 +58,7 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/><br/>Nginx</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/>Actions</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytest" width="48" height="48" alt="Pytest"/><br/>Pytest</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest"/><br/>Pytest</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br/>.NET</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>React</td>
   </tr>
