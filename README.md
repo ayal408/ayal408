@@ -95,7 +95,7 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 <br/>
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=ayal408&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
-[![Open Source](https://img.shields.io/badge/Open_Source-NexusDB-0d6d63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/nexusdb)
+[![Open Source](https://img.shields.io/badge/Open_Source-KrossDB-0d6d63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/krossdb)
 [![In Production](https://img.shields.io/badge/In_Production-Queue_System-1f7a4d?style=for-the-badge)](https://levmenachem.duckdns.org)
 [![Microservices](https://img.shields.io/badge/Microservices-Domix-14919b?style=for-the-badge)](https://github.com/ayal408/domix)
 ![Architecture](https://img.shields.io/badge/Architecture-Israeli_ERP-93690a?style=for-the-badge)
