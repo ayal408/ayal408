@@ -27,6 +27,10 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
   code depends on one clean abstraction instead of five different drivers.
   Built-in circuit breakers, retry with backoff, cache-aside layers, and
   multi-tenancy isolation.
+- 📬 **[mailbrief](https://github.com/ayal408/mailbrief)** — a local, rule-based mail
+  assistant for Windows (no AI, no cloud): weekly Hebrew brief, a trigger → conditions →
+  actions automation engine, receipts to Excel with Bank of Israel rates, phishing
+  detection, and automatic Shabbat / Yom Tov pausing. Standard library only.
 - 🌐 **[domix](https://github.com/ayal408/domix)** — a client/server app with its
   own auth service and an Nginx layer in front, all orchestrated with Docker
   Compose.
@@ -80,6 +84,7 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 | Repo | Description | Stack |
 |---|---|---|
 | [**krossdb**](https://github.com/ayal408/krossdb) | Unified repository/UoW interface over relational, document & vector DBs, with circuit breakers, retry, caching & multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**mailbrief**](https://github.com/ayal408/mailbrief) | Local rule-based mail assistant for Windows: weekly brief, automations, receipts to Excel, phishing detection, Shabbat mode | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**domix**](https://github.com/ayal408/domix) | Client/server app with its own auth service, fronted by Nginx, orchestrated with Docker Compose | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
@@ -98,6 +103,7 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 [![Open Source](https://img.shields.io/badge/Open_Source-KrossDB-0d6d63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/krossdb)
 [![In Production](https://img.shields.io/badge/In_Production-Queue_System-1f7a4d?style=for-the-badge)](https://levmenachem.duckdns.org)
 [![Microservices](https://img.shields.io/badge/Microservices-Domix-14919b?style=for-the-badge)](https://github.com/ayal408/domix)
+[![Open Source](https://img.shields.io/badge/Open_Source-MailBrief-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/mailbrief)
 ![Architecture](https://img.shields.io/badge/Architecture-Israeli_ERP-93690a?style=for-the-badge)
 ![AI Pipeline](https://img.shields.io/badge/AI_Pipeline-Invoice_OCR-6b675e?style=for-the-badge)
 
