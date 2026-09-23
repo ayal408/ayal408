@@ -89,6 +89,36 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
 </div>
 
+## 🎁 Explore More
+
+<details>
+<summary>🧩 Open a project: one interface, many databases</summary>
+
+**[krossdb](https://github.com/ayal408/krossdb)** brings PostgreSQL, MySQL, SQLite, MongoDB, and Qdrant behind a shared repository and Unit-of-Work interface. Explore its retry, caching, and multi-tenancy design in the repository.
+
+</details>
+
+<details>
+<summary>📬 Open a project: a local automation assistant</summary>
+
+**[mailbrief](https://github.com/ayal408/mailbrief)** turns mail into a weekly Hebrew brief and rule-based automations. Its repository covers receipt exports, phishing checks, and automatic Shabbat / Yom Tov pausing.
+
+</details>
+
+<details>
+<summary>🛠️ Open a project: client, API, and auth service</summary>
+
+**[domix](https://github.com/ayal408/domix)** combines a client, server, dedicated auth service, Nginx, and Docker Compose. Browse the repository to see how the pieces fit together.
+
+</details>
+
+<details>
+<summary>🌐 Find the full portfolio</summary>
+
+Explore more work and ways to get in touch on **[A4U](https://ayal408.github.io/a4u/)**.
+
+</details>
+
 ## 🏆 Achievements
 
 <div align="center">
