@@ -2,13 +2,12 @@
 
 <img src="https://avatars.githubusercontent.com/u/293018936?v=4" width="140" style="border-radius:50%" alt="ayal408"/>
 
-<br/><br/>
+<h3>Backend &amp; Systems Engineer</h3>
 
-### Backend & Systems Engineer
 **Building resilient, multi-database Python systems**
-<br/>PostgreSQL &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; Qdrant &nbsp;|&nbsp; Redis
 
-<br/>
+PostgreSQL · MySQL · MongoDB · Qdrant · Redis
+
 
 ![followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
@@ -19,32 +18,18 @@
 ## 👋 About Me
 
 I build backend systems that don't fall over when the database does something
-weird at 3am — enterprise-grade data layers with a real story for retries,
+weird at 3am: enterprise-grade data layers with a real story for retries,
 caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
-- 🧱 **[krossdb](https://github.com/ayal408/krossdb)** — a unified repository/Unit-of-Work
-  interface over PostgreSQL, MySQL, SQLite, MongoDB, and Qdrant, so application
-  code depends on one clean abstraction instead of five different drivers.
-  Built-in circuit breakers, retry with backoff, cache-aside layers, and
-  multi-tenancy isolation.
-- 📬 **[mailbrief](https://github.com/ayal408/mailbrief)** — a local, rule-based mail
-  assistant for Windows (no AI, no cloud): weekly Hebrew brief, a trigger → conditions →
-  actions automation engine, receipts to Excel with Bank of Israel rates, phishing
-  detection, and automatic Shabbat / Yom Tov pausing. Standard library only.
-- 🌐 **[domix](https://github.com/ayal408/domix)** — a client/server app with its
-  own auth service and an Nginx layer in front, all orchestrated with Docker
-  Compose.
-- 💼 **Israeli SMB accounting/invoicing ERP** — a .NET 10 + React system
-  bringing Israeli tax-compliance workflows to small businesses (private repo,
-  in progress).
-- 📅 A treatment-scheduling web app (TypeScript) for booking and managing
-  appointments.
-- 🔭 Currently focused on resilience patterns: circuit breakers, retry with
+- 🔭 **Currently focused on:** resilience patterns: circuit breakers, retry with
   backoff, cache-aside layers, and audit-trail observability.
-- ⚡ Fun fact: I'd rather debug a deadlock at 3am than write another `if`
+- 💼 **In progress (private):** an Israeli SMB accounting/invoicing ERP
+  (.NET 10 + React) built around Israeli tax-compliance workflows.
+- 📅 **Also built:** a TypeScript web app for booking and managing treatment appointments.
+- ⚡ **Fun fact:** I'd rather debug a deadlock at 3am than write another `if`
   statement for a driver-specific edge case.
 
-## ⚙️ My Favorite Tools and Technologies
+## ⚙️ Tech Stack
 
 <table>
   <tr>
@@ -81,11 +66,11 @@ caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
 
 <div align="center">
 
-| Repo | Description | Stack |
-|---|---|---|
-| [**krossdb**](https://github.com/ayal408/krossdb) | Unified repository/UoW interface over relational, document & vector DBs, with circuit breakers, retry, caching & multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**mailbrief**](https://github.com/ayal408/mailbrief) | Local rule-based mail assistant for Windows: weekly brief, automations, receipts to Excel, phishing detection, Shabbat mode | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**domix**](https://github.com/ayal408/domix) | Client/server app with its own auth service, fronted by Nginx, orchestrated with Docker Compose | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| Project | What it does | Highlights | Stack |
+|---|---|---|---|
+| [**krossdb**](https://github.com/ayal408/krossdb) | One repository / Unit-of-Work interface over PostgreSQL, MySQL, SQLite, MongoDB and Qdrant | Circuit breakers, retry with backoff, cache-aside, multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**mailbrief**](https://github.com/ayal408/mailbrief) | Local, rule-based mail assistant for Windows, no AI and no cloud | Weekly Hebrew brief, automation engine, receipts to Excel, phishing detection, Shabbat / Yom Tov pause | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**domix**](https://github.com/ayal408/domix) | Client/server app with its own auth service | Nginx front layer, orchestrated with Docker Compose | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
 
