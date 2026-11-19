@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/293018936?v=4" width="120" style="border-radius:50%" alt="ayal408"/>
+<img src="assets/banner.svg" width="100%" alt="ayal408, Backend and Systems Engineer"/>
 
-# Backend & Systems Engineer
+<br/>
 
-**I build data layers that keep working when the database doesn't.**
-
-Python · PostgreSQL · MySQL · MongoDB · Qdrant · Redis
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
-[![Followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)](https://github.com/ayal408?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayal408.github.io/a4u/)
+[![krossdb](https://img.shields.io/badge/Open_source-krossdb-14919b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/krossdb)
+[![Followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers&logo=github)](https://github.com/ayal408?tab=followers)
 
 </div>
 
@@ -37,6 +34,8 @@ multi-tenancy and audit trails built in from the start, not patched on per drive
 
 ## Tech stack
 
+<div align="center">
+
 <table>
   <tr>
     <td><b>Backend</b></td>
@@ -56,7 +55,9 @@ multi-tenancy and audit trails built in from the start, not patched on per drive
   </tr>
 </table>
 
-Also in the toolbox: async SQLAlchemy, Pydantic v2, Qdrant, structlog, pytest and Testcontainers.
+<sub>Also in the toolbox: async SQLAlchemy, Pydantic v2, Qdrant, structlog, pytest and Testcontainers.</sub>
+
+</div>
 
 ## Activity
 
