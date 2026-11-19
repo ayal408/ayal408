@@ -1,107 +1,72 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/293018936?v=4" width="140" style="border-radius:50%" alt="ayal408"/>
+<img src="https://avatars.githubusercontent.com/u/293018936?v=4" width="120" style="border-radius:50%" alt="ayal408"/>
 
-<h3>Backend &amp; Systems Engineer</h3>
+# Backend & Systems Engineer
 
-**Building resilient, multi-database Python systems**
+**I build data layers that keep working when the database doesn't.**
 
-PostgreSQL · MySQL · MongoDB · Qdrant · Redis
+Python · PostgreSQL · MySQL · MongoDB · Qdrant · Redis
 
-
-![followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A4U-0d6d63?style=for-the-badge)](https://ayal408.github.io/a4u/)
-
+[![Followers](https://img.shields.io/github/followers/ayal408?style=for-the-badge&color=0AB2F7&label=Followers)](https://github.com/ayal408?tab=followers)
 
 </div>
 
-## 👋 About Me
+---
 
-I build backend systems that don't fall over when the database does something
-weird at 3am: enterprise-grade data layers with a real story for retries,
-caching, multi-tenancy, and observability, instead of ad-hoc per-driver code.
+## About
 
-- 🔭 **Currently focused on:** resilience patterns: circuit breakers, retry with
-  backoff, cache-aside layers, and audit-trail observability.
-- 💼 **In progress (private):** an Israeli SMB accounting/invoicing ERP
-  (.NET 10 + React) built around Israeli tax-compliance workflows.
-- 📅 **Also built:** a TypeScript web app for booking and managing treatment appointments.
-- ⚡ **Fun fact:** I'd rather debug a deadlock at 3am than write another `if`
-  statement for a driver-specific edge case.
+Most outages start with a database doing something unexpected at 3am. I design
+enterprise-grade backends with a clear plan for that moment: retries, caching,
+multi-tenancy and audit trails built in from the start, not patched on per driver.
 
-## ⚙️ Tech Stack
+- **Focus now:** resilience patterns such as circuit breakers, retry with backoff,
+  cache-aside layers and audit-trail observability.
+- **In progress (private):** an Israeli SMB accounting and invoicing ERP on .NET 10 and
+  React, built around Israeli tax-compliance workflows.
+- **Also built:** a TypeScript web app for booking and managing treatment appointments.
+
+## Featured projects
+
+| Project | Problem it solves | Key features |
+|---|---|---|
+| [**krossdb**](https://github.com/ayal408/krossdb)<br/>`Python` | Application code tied to five different database drivers | One repository / Unit-of-Work interface over PostgreSQL, MySQL, SQLite, MongoDB and Qdrant. Circuit breakers, retry with backoff, cache-aside, multi-tenancy isolation |
+| [**mailbrief**](https://github.com/ayal408/mailbrief)<br/>`Python` | Inbox overload, with no data leaving the machine | Local, rule-based mail assistant for Windows. No AI, no cloud, standard library only. Weekly Hebrew brief, trigger → conditions → actions engine, receipts to Excel with Bank of Israel rates, phishing detection, automatic Shabbat / Yom Tov pause |
+| [**domix**](https://github.com/ayal408/domix)<br/>`Docker` | A complete client/server stack that starts with one command | Own auth service, Nginx in front, everything orchestrated with Docker Compose |
+
+## Tech stack
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/>Redis</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br/>SQLite</td>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,fastapi,dotnet" alt="Python, FastAPI, .NET"/></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/><br/>Nginx</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/>Actions</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest"/><br/>Pytest</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br/>.NET</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>React</td>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite"/></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br/>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br/>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br/>HTML</td>
+    <td><b>Infra &amp; tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,bash" alt="Docker, Nginx, GitHub Actions, Git, Linux, Bash"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="React, TypeScript, JavaScript, HTML, CSS"/></td>
   </tr>
 </table>
 
-<p align="center"><em>(Also in the toolbox: async SQLAlchemy, Pydantic v2, Qdrant, structlog, Testcontainers)</em></p>
+Also in the toolbox: async SQLAlchemy, Pydantic v2, Qdrant, structlog, pytest and Testcontainers.
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-| Project | What it does | Highlights | Stack |
-|---|---|---|---|
-| [**krossdb**](https://github.com/ayal408/krossdb) | One repository / Unit-of-Work interface over PostgreSQL, MySQL, SQLite, MongoDB and Qdrant | Circuit breakers, retry with backoff, cache-aside, multi-tenancy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**mailbrief**](https://github.com/ayal408/mailbrief) | Local, rule-based mail assistant for Windows, no AI and no cloud | Weekly Hebrew brief, automation engine, receipts to Excel, phishing detection, Shabbat / Yom Tov pause | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**domix**](https://github.com/ayal408/domix) | Client/server app with its own auth service | Nginx front layer, orchestrated with Docker Compose | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-
-</div>
-
-## 🏆 Achievements
+## Activity
 
 <div align="center">
 
-<a href="https://github.com/ayal408?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire"/></a>
-
-**Pair Extraordinaire** — earned for co-authored commits (some of them with an AI pairing partner)
-
-<br/>
-
-![trophies](https://github-profile-trophy.vercel.app/?username=ayal408&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
-[![Open Source](https://img.shields.io/badge/Open_Source-KrossDB-0d6d63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/krossdb)
-[![Microservices](https://img.shields.io/badge/Microservices-Domix-14919b?style=for-the-badge)](https://github.com/ayal408/domix)
-[![Open Source](https://img.shields.io/badge/Open_Source-MailBrief-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayal408/mailbrief)
-![Architecture](https://img.shields.io/badge/Architecture-Israeli_ERP-93690a?style=for-the-badge)
-![AI Pipeline](https://img.shields.io/badge/AI_Pipeline-Invoice_OCR-6b675e?style=for-the-badge)
+![Contribution snake](https://raw.githubusercontent.com/ayal408/ayal408/output/github-contribution-grid-snake.svg)
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/ayal408/ayal408/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 📩 Connect with Me
+## Contact
 
 <div align="center">
 
