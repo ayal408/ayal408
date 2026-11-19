@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="ayal408, Backend and Systems Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#062f2b"/>
+      <stop offset="0.55" stop-color="#0d6d63"/>
+      <stop offset="1" stop-color="#14919b"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="16" fill="url(#grid)"/>
+  <!-- layered database stacks on the right -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2">
+    <ellipse cx="840" cy="82" rx="78" ry="22"/>
+    <path d="M762 82v38c0 12 35 22 78 22s78-10 78-22V82"/>
+    <path d="M762 120v38c0 12 35 22 78 22s78-10 78-22v-38"/>
+    <path d="M762 158v38c0 12 35 22 78 22s78-10 78-22v-38"/>
+  </g>
+  <ellipse cx="840" cy="82" rx="78" ry="22" fill="#ffffff" fill-opacity="0.12"/>
+  <circle cx="900" cy="130" r="4" fill="#7ff0d8"/>
+  <circle cx="900" cy="168" r="4" fill="#7ff0d8"/>
+  <circle cx="900" cy="206" r="4" fill="#7ff0d8"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="64" y="104" font-size="64" font-weight="700" letter-spacing="-1">ayal408</text>
+    <text x="66" y="146" font-size="26" font-weight="500" fill-opacity="0.92">Backend &amp; Systems Engineer</text>
+    <text x="66" y="182" font-size="18" fill-opacity="0.75">Data layers that keep working when the database doesn't.</text>
+  </g>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" fill="#ffffff">
+    <rect x="64" y="204" width="86" height="28" rx="14" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="107" y="223" text-anchor="middle">Python</text>
+    <rect x="160" y="204" width="116" height="28" rx="14" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="218" y="223" text-anchor="middle">PostgreSQL</text>
+    <rect x="286" y="204" width="106" height="28" rx="14" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="339" y="223" text-anchor="middle">MongoDB</text>
+    <rect x="402" y="204" width="86" height="28" rx="14" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="445" y="223" text-anchor="middle">Qdrant</text>
+    <rect x="498" y="204" width="76" height="28" rx="14" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="536" y="223" text-anchor="middle">Redis</text>
+  </g>
+</svg>
